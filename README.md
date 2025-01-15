@@ -3,7 +3,8 @@
 ## Current behavior
 
 Renovate suggests to update `studio.lunabee.compose:lbcpresenter` from `1.0.0-287-SNAPSHOT` to `1.0.0-288-SNAPSHOT`
-https://github.com/rlatapy-luna/renovate-minimal-reproduction/pull/4
+
+PR -> https://github.com/rlatapy-luna/renovate-minimal-reproduction/pull/4
 
 ## Expected behavior
 
