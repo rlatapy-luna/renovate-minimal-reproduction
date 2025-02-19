@@ -9,7 +9,7 @@
 
 [versions]
 
-lbcpresenter = "1.0.0-287-SNAPSHOT"
+lbcpresenter = "1.2.0"
 
 [libraries]
 
